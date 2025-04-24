@@ -1,1 +1,2 @@
-# khaira-rias-pengantin
+# WebAplikasiWO
+Wedding Organizer berbasis website
